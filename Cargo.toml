@@ -2,7 +2,7 @@
 name = "allure"
 version = "0.0.1"
 description = "Allure"
-keywords = ["testing", "test", "allure"]
+keywords = ["testing", "allure"]
 repository = "https://github.com/mirecl/allure"
 authors = ["Grazhdankov Andrei <grazhdankov@gmail.com>"]
 readme = "README.md"
