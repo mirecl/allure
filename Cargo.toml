@@ -1,0 +1,12 @@
+[package]
+name = "allure"
+version = "0.0.1"
+description = "Allure"
+keywords = ["testing", "test", "allure"]
+repository = "https://github.com/mirecl/allure"
+authors = ["Grazhdankov Andrei <grazhdankov@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
